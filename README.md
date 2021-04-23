@@ -9,6 +9,11 @@ make up
 make composer-install
 ```
 
+## Urls
+- site : http://localhost:20000
+- phpmyadmin : http://localhost:20001
+- mail : http://localhost:20002
+
 
 ## Environment variables for database
 
@@ -27,6 +32,7 @@ make yarn-install
 ```
 make yarn
 ```
+
 
 
 
